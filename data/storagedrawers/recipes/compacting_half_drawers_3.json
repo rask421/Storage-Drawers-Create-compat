@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "TTT",
+        "#X#"
+    ],
+    "key": {
+        "#": { "item": "create:iron_sheet" },
+        "T": { "item": "create:mechanical_crafter" },
+        "X": { "tag": "storagedrawers:harf_drawers" }
+    },
+    "result": { "item": "storagedrawers:compacting_harf_drawers_3" }
+}
